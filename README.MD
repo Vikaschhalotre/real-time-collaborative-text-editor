@@ -2,7 +2,7 @@
 
 A real-time collaborative rich text editor that allows multiple users to edit the same document simultaneously. The project uses Django Channels, WebSockets, Redis, Yjs (CRDT), and React to provide instant synchronization between connected users.
 
-![demo](demo.gif)
+![demo](public/demo.gif)
 
 Made using:
 
